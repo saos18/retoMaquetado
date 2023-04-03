@@ -58,7 +58,7 @@ body {
   flex-wrap: wrap;
 }
 
-box2 {
+.box2 {
   border: 1px solid black;
   font-weight: bold;
   font-family: "Franklin Gothic Medium";
@@ -70,4 +70,9 @@ box2 {
   height: 25%;
   width: 25%;
   line-height: 20px;
+}
+
+.joker {
+  position: absolute;
+  left: 0;
 }/*# sourceMappingURL=styles.css.map */

@@ -29,7 +29,6 @@ body {
     font-weight: bold;
     font-size: x-large;
     width: 100%;
-   
    margin: 2%;
 }
 
@@ -63,7 +62,7 @@ body {
 
  }
 
- box2{
+ .box2{
     border: 1px solid black;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium';
@@ -77,3 +76,7 @@ body {
     line-height: 20px;
  }
 
+ .joker{
+    position:absolute;
+    left: 0;
+}
